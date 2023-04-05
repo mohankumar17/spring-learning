@@ -1,0 +1,15 @@
+.metadata
+Servers/
+
+**/*.jar
+**/*.war
+**/*.ear
+**/*target/*
+**/bin/**
+**/tmp/**
+**/tmp/**/*
+**/*.tmp
+**/*.bak
+**/.settings/
+**/.project
+**/.classpath
